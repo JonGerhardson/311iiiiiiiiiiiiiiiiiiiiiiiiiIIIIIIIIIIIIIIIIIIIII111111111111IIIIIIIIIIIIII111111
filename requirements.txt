@@ -1,0 +1,6 @@
+ selenium
+ undetected-chromedriver
+ beautifulsoup4
+ html2text
+ fake_useragent
+ requests
