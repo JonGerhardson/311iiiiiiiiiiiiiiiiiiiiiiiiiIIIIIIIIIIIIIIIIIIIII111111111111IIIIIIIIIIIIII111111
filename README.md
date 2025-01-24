@@ -7,6 +7,8 @@ Useful for journalists, researchers, architects, and anyone who has a list of ur
 
 This was specifically created to be able to automatically download Massachusetts municipal codes, after I learned there was no convenient way to search across all city and town bylaws. There are paid services available, but these are not exhaustive databases. I used a list of links from mass.gov available [here](https://www.mass.gov/info-details/massachusetts-city-and-town-ordinances-and-by-laws). 
 
+The file named urls.csv in this repository contains those links as a reference. 
+
 Some of this readme was AI generated so it might read a little weird as I fill in some of the details in my less affable voice. Got it! Okay! Now here's what the Web Scraper for Municipal Codes and Documents does!
 ## Features
 
