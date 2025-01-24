@@ -11,7 +11,7 @@ Some of this readme was AI generated so it might read a little weird as I fill i
 ## Features
 
 - **Pause/Resume Functionality**: The script can save its progress and resume from where it left off if interrupted. Use Ctrl + C to quit and it will pause automatically. 
-- **Sneaky anti-bot detection stuff.
+- **Sneaky anti-bot detection stuff.**
 - **Rate Limiting**: Introduces random delays between requests to avoid triggering rate limits or bans.
 - **User Agent Rotation**: Periodically changes the user agent to mimic different browsers and reduce the chance of being blocked.
 - **Error Handling**: Logs failed URLs and retries them a specified number of times before giving up.
